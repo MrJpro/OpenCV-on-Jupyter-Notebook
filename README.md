@@ -1,4 +1,5 @@
 # OpenCV-on-Jupyter-Notebook
+![](https://en.wikipedia.org/wiki/OpenCV#/media/File:OpenCV_Logo_with_text_svg_version.svg)
 Guides to learn how to use OpenCV. Will go step by step through common OpenCV utilities.
 
 # Prerequisites 
